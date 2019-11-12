@@ -1,3 +1,6 @@
+package br.com.bytebank.testes;
+
+import br.com.bytebank.modelos.*;
 
 public class TesteReferencias {
 
